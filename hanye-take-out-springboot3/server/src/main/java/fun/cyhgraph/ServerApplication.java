@@ -8,7 +8,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 
 @SpringBootApplication
 @EnableCaching // 开启缓存注解功能
-@EnableScheduling // 开启定时调度功能
+@EnableScheduling // 开启定时调度功能11212121
 @Slf4j
 public class ServerApplication {
 
