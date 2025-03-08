@@ -11,7 +11,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 @EnableScheduling // 开启定时调度功能
 @Slf4j
 public class ServerApplication {
-
+//1
     public static void main(String[] args) {
         SpringApplication.run(ServerApplication.class, args);
         log.info("server started successfully!");
