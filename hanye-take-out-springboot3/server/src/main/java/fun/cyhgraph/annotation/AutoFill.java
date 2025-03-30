@@ -8,7 +8,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * 自定义注解，用于标识某个方法需要进行功能字段自动填充处理
+ * 自定义注解，用于标识ccc某个方法需要进行功能字段自动填充处理
  * 注解接口@interface与普通接口类似，但它们只能包含抽象方法，并且这些方法不能有实现，用于定义自定义注解
  */
 @Target(ElementType.METHOD)
